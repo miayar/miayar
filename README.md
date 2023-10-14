@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @miayar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-miayar/miayar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ကံကောင်းခြင်းစည်းမျဉ်း
+နံပါတ်(1)
+ကံတရားက အမြဲမကြာရှည်ဘူး။
+အကြောင်းက သူဟာ သင်နဲ့မသက်ဆိုင်လို့ပါ
+ကံကောင်းခြင်းက လူတစ်ဦးတစ်ယောက်ရဲ့ ကြိုးစားဖန်တီးမှုနဲ့ဆိုင်တယ်၊
+ဒါကြောင့်သူဟာ တာရှည်တည်မြဲတယ်။
